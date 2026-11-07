@@ -5,7 +5,7 @@ This file is generated from the benchmark definition.
 ## Seeded fictional CRM scenarios
 
 - Kind: `synthetic`
-- URL: https://github.com/pooriaarab/benchmark-crm-truthfulness/blob/main/scripts/gen-tasks.mjs
+- URL: https://github.com/itsryanarmani/benchmark-crm-truthfulness/blob/main/scripts/gen-tasks.mjs
 - Licence: `MIT`
 - Retrieved: 2026-10-15T00:00:00.000Z
 - How to get it: The generator combines maintainer-written fact sheets, name lists, and seeded scenario templates. Run `node scripts/gen-tasks.mjs --seed 20261015 --split public` from the repository root.

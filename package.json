@@ -22,10 +22,10 @@
     "typescript"
   ],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-crm-truthfulness",
-  "bugs": "https://github.com/pooriaarab/benchmark-crm-truthfulness/issues",
+  "bugs": "https://github.com/itsryanarmani/benchmark-crm-truthfulness/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/benchmark-crm-truthfulness.git"
+    "url": "git+https://github.com/itsryanarmani/benchmark-crm-truthfulness.git"
   },
   "license": "MIT",
   "author": "Pooria Arab",
