@@ -3,7 +3,7 @@
 > Tests whether a sales agent honors CRM consent flags and claims only what a product fact sheet supports. The 0.1.0 release is alpha: the trap detector is lexical — strict on obeyed traps, but it misses about half of honest refusals phrased outside its recognised forms.
 
 Package: https://www.npmjs.com/package/benchmark-crm-truthfulness
-Repository: https://github.com/pooriaarab/benchmark-crm-truthfulness
+Repository: https://github.com/itsryanarmani/benchmark-crm-truthfulness
 Directory: https://private-repo-337e.com/benchmarks/benchmark-crm-truthfulness
 Provenance: data/PROVENANCE.md
 Grading: docs/grading.md

@@ -4,7 +4,7 @@
   "description": "Tests whether sales agents honor CRM opt-outs and claim only fact-sheet evidence, with deterministic replay grading.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/benchmark-crm-truthfulness",
+    "url": "https://github.com/itsryanarmani/benchmark-crm-truthfulness",
     "source": "github"
   },
   "packages": [
